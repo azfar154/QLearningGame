@@ -5,5 +5,7 @@ This is for the game CartPole-v0. If you have never played or seen this game you
 ## How to run the Program?
 Its quite simple to run this program after install source venv/bin/activate as you just run the model.py file.
 
+Made by: Azfar Mohamed
+
 
 Licensed under [MIT LICENSE](LICENSE)
