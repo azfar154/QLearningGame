@@ -6,3 +6,4 @@ This is for the game CartPole-v0. If you have never played or seen this game you
 Its quite simple to run this program after install source venv/bin/activate as you just run the model.py file.
 
 
+LICENSED UNDER [MIT LICENSE](LICENSE)
