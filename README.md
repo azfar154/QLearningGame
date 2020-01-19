@@ -9,4 +9,4 @@ Made by: Azfar Mohamed
 
 Licensed under [Mit License](LICENSE)
 
-Package can be found at 
+Package can be found at https://pypi.org/project/GameQLearning/
