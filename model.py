@@ -1,7 +1,7 @@
 import gym
 from keras import models
 import random
-from keras.layers import Dense, Flatten, Conv2D
+from keras.layers import Dense, Flatten
 
 from collections import deque
 import numpy as np
